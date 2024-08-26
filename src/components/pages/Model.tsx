@@ -2,7 +2,7 @@ import { useParams } from 'react-router-dom'
 import { SnickersModels, snickersModels } from '../state'
 
 const getCurrentModel = (model: string | undefined, id: string | undefined) => {
-	if (model && id) {
+	if (model && id && snickersModels[model as keyof SnickersModels]) {
 		return snickersModels[model as keyof SnickersModels].find(
 			el => el.id === id
 		)
@@ -11,7 +11,7 @@ const getCurrentModel = (model: string | undefined, id: string | undefined) => {
 }
 
 export const Model = () => {
-	const { model, id } = useParams()
+	const { model, id } = useParams<{ model: string; id: string }>()
 
 	const currentModel = getCurrentModel(model, id)
 
