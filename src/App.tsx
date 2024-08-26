@@ -15,6 +15,7 @@ export const PATH = {
 	Prices: 'prices',
 	ERROR404: 'error404',
 }
+////dsdsdsd
 
 function App() {
 	return (
