@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Dddmaxc.github.io/router/static/css/main.f501b8ff.css",
-    "main.js": "/Dddmaxc.github.io/router/static/js/main.01808798.js",
+    "main.js": "/Dddmaxc.github.io/router/static/js/main.877eee52.js",
     "static/js/592.7f72a991.chunk.js": "/Dddmaxc.github.io/router/static/js/592.7f72a991.chunk.js",
     "static/media/Puma1.webp": "/Dddmaxc.github.io/router/static/media/Puma1.d65a340a0d24a8e495a7.webp",
     "static/media/AdiFOM_TRXN_Shoes_Black_IG7453_01_standard.webp": "/Dddmaxc.github.io/router/static/media/AdiFOM_TRXN_Shoes_Black_IG7453_01_standard.e9c80b9c88b66a161c93.webp",
@@ -11,11 +11,11 @@
     "static/media/Puma2.webp": "/Dddmaxc.github.io/router/static/media/Puma2.961dc1ce0c263991def2.webp",
     "index.html": "/Dddmaxc.github.io/router/index.html",
     "main.f501b8ff.css.map": "/Dddmaxc.github.io/router/static/css/main.f501b8ff.css.map",
-    "main.01808798.js.map": "/Dddmaxc.github.io/router/static/js/main.01808798.js.map",
+    "main.877eee52.js.map": "/Dddmaxc.github.io/router/static/js/main.877eee52.js.map",
     "592.7f72a991.chunk.js.map": "/Dddmaxc.github.io/router/static/js/592.7f72a991.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f501b8ff.css",
-    "static/js/main.01808798.js"
+    "static/js/main.877eee52.js"
   ]
 }
