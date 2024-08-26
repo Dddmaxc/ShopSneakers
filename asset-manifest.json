@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/rout/static/css/main.f501b8ff.css",
-    "main.js": "/rout/static/js/main.aae60a00.js",
-    "static/js/592.7f72a991.chunk.js": "/rout/static/js/592.7f72a991.chunk.js",
-    "static/media/Puma1.webp": "/rout/static/media/Puma1.d65a340a0d24a8e495a7.webp",
-    "static/media/AdiFOM_TRXN_Shoes_Black_IG7453_01_standard.webp": "/rout/static/media/AdiFOM_TRXN_Shoes_Black_IG7453_01_standard.e9c80b9c88b66a161c93.webp",
-    "static/media/Puma3.webp": "/rout/static/media/Puma3.e8d644901088ed85872a.webp",
-    "static/media/PostMove_Mid_Cloudfoam_Super_Lifestyle_Basketball_Mid_Classic_Shoes_Black_GY7163_01_standard.webp": "/rout/static/media/PostMove_Mid_Cloudfoam_Super_Lifestyle_Basketball_Mid_Classic_Shoes_Black_GY7163_01_standard.2d5a968132003063b28d.webp",
-    "static/media/Superstar_XLG_Shoes_Black_IG9777_01_standard.webp": "/rout/static/media/Superstar_XLG_Shoes_Black_IG9777_01_standard.db6ec792d09fc024fa20.webp",
-    "static/media/Puma2.webp": "/rout/static/media/Puma2.961dc1ce0c263991def2.webp",
-    "index.html": "/rout/index.html",
-    "main.f501b8ff.css.map": "/rout/static/css/main.f501b8ff.css.map",
-    "main.aae60a00.js.map": "/rout/static/js/main.aae60a00.js.map",
-    "592.7f72a991.chunk.js.map": "/rout/static/js/592.7f72a991.chunk.js.map"
+    "main.css": "/router/static/css/main.f501b8ff.css",
+    "main.js": "/router/static/js/main.882a67f2.js",
+    "static/js/592.7f72a991.chunk.js": "/router/static/js/592.7f72a991.chunk.js",
+    "static/media/Puma1.webp": "/router/static/media/Puma1.d65a340a0d24a8e495a7.webp",
+    "static/media/AdiFOM_TRXN_Shoes_Black_IG7453_01_standard.webp": "/router/static/media/AdiFOM_TRXN_Shoes_Black_IG7453_01_standard.e9c80b9c88b66a161c93.webp",
+    "static/media/Puma3.webp": "/router/static/media/Puma3.e8d644901088ed85872a.webp",
+    "static/media/PostMove_Mid_Cloudfoam_Super_Lifestyle_Basketball_Mid_Classic_Shoes_Black_GY7163_01_standard.webp": "/router/static/media/PostMove_Mid_Cloudfoam_Super_Lifestyle_Basketball_Mid_Classic_Shoes_Black_GY7163_01_standard.2d5a968132003063b28d.webp",
+    "static/media/Superstar_XLG_Shoes_Black_IG9777_01_standard.webp": "/router/static/media/Superstar_XLG_Shoes_Black_IG9777_01_standard.db6ec792d09fc024fa20.webp",
+    "static/media/Puma2.webp": "/router/static/media/Puma2.961dc1ce0c263991def2.webp",
+    "index.html": "/router/index.html",
+    "main.f501b8ff.css.map": "/router/static/css/main.f501b8ff.css.map",
+    "main.882a67f2.js.map": "/router/static/js/main.882a67f2.js.map",
+    "592.7f72a991.chunk.js.map": "/router/static/js/592.7f72a991.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f501b8ff.css",
-    "static/js/main.aae60a00.js"
+    "static/js/main.882a67f2.js"
   ]
 }
